@@ -1,0 +1,15 @@
+h1 {
+  color: blue;
+  font-family: serif;
+  text-align: center;
+}
+
+p {
+  font-style: italic;
+  font-weight: bolder;
+}
+
+img {
+  max-height: 300px;
+  max-width: 300px;
+}
